@@ -1,1 +1,1 @@
-# docker-sandbox
+# Django fullstack dockerised
